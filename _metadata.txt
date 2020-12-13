@@ -1,0 +1,20 @@
+generated-with: Easy Java/Javascript Simulations, version 6.01, build 201013. Visit http://www.um.es/fem/Ejs
+title: Princípcio de Pascal
+logo-image: 
+author: Humberto Carmona
+copyright: Humberto Carmona, H. Carmona
+preferred-width: 800
+preferred-height: 600
+author-image: figs/HAC_logo.png
+source: pascal.ejss
+main-script: 
+main-simulation: pascal_Simulation.xhtml
+available-languages: 
+html-description: pascal_Intro_1.html
+html-contents: pascal_Contents.xhtml
+html-main: pascal.xhtml
+page-title: Introdução
+page-index: pascal_Intro_1.html
+page-title: Princípcio de Pascal
+page-index: pascal_Simulation.xhtml
+resource: figs/HAC_logo.png
