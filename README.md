@@ -1,3 +1,5 @@
 # Princípio de Pascal
 
-[não clique aqui!!!](pascal_Simulation.xhtml)
+[clique aqui](pascal_Simulation.xhtml)
+
+[Page](https://humbertocarmona.github.io/pascal/)
